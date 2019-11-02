@@ -1,7 +1,8 @@
 rencana konten wpu
 
 - javascript
+  * reactjs
+  * angularjs
 - php framework
 - interview 
-- vlog
 - jalan-jalan keluar negeri
