@@ -7,3 +7,4 @@ rencana konten wpu
 - fundamental struktur data
 - interview 
 - jalan-jalan keluar negeri
+- python
