@@ -1,10 +1,10 @@
 rencana konten wpu
 
 - javascript
-  * framework javascript
-  * vuejs
+  * reactjs
+  * angularjs
 - php framework
+- fundamental struktur data
 - interview 
-- vlog
 - jalan-jalan keluar negeri
 - python
