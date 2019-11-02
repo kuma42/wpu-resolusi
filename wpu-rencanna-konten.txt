@@ -4,3 +4,4 @@ rencana konten wpu
 - php framework
 - interview 
 - vlog
+- jalan-jalan keluar negeri
