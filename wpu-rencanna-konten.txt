@@ -2,6 +2,7 @@ rencana konten wpu
 
 - javascript
 - php framework
+- fundamental struktur data
 - interview 
 - vlog
 - jalan-jalan keluar negeri
