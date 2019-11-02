@@ -1,7 +1,10 @@
 rencana konten wpu
 
 - javascript
+  * framework javascript
+  * vuejs
 - php framework
 - interview 
 - vlog
 - jalan-jalan keluar negeri
+- python
