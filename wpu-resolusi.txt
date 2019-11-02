@@ -4,3 +4,4 @@ WPU RESOLUSI
 - konsisten ikut kompetisi
 - tidak boleh malas
 - terus berusaha
+- belajar fundamental struktur data
